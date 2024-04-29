@@ -1,5 +1,5 @@
 
-## Name : naredh.r
+## Name : naresh.r
 ### Reg. no. : 212223240104
 
 
